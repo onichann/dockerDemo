@@ -51,7 +51,7 @@
                 <version>1.0.0</version>
                 <configuration>
                     <!-- docker私服的地址 -->
-                    <dockerHost>http://47.114.49.21:2375</dockerHost>
+                    <dockerHost>http://47.100.5.152:1267</dockerHost>
                     <!--镜像名称以及版本号-->
                     <imageName>itmuch/spring-boot-docker:1.1.1</imageName>
                     <!--依赖的基础镜像-->

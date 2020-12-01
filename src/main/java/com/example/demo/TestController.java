@@ -13,6 +13,6 @@ public class TestController {
 
     @RequestMapping("/demo")
     public String demo() {
-        return "hello world" + System.currentTimeMillis();
+        return "hello world port:9999 version=1" + System.currentTimeMillis();
     }
 }
