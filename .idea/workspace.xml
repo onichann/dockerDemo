@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c6ba7a0-cbff-4a1c-bbf1-3cee3f7b20b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/TestController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../work/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\work\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l0Lx29Lzs6xc3ETGawKKRGP4Fm" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/docker" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Docker.dockerDemo">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dockerDemo" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="dockerpluginsdemo" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="dockerPluginsDemo" />
+          <option name="contextFolderPath" value="target" />
+          <option name="entrypoint" value="" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8080" />
+                <option name="hostPort" value="9999" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="src/main/docker/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean package -U -DskipTests" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Docker.dockerDemo" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+    </list>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c6ba7a0-cbff-4a1c-bbf1-3cee3f7b20b5" name="Default Changelist" comment="" />
+      <created>1606729304532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606729304532</updated>
+      <workItem from="1606729308068" duration="1356000" />
+      <workItem from="1606790822609" duration="7830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="273" key="#Docker" timestamp="1606795648243">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="120" y="273" key="#Docker/0.0.1549.831@0.0.1549.831" timestamp="1606795648243" />
+    <state x="631" y="293" key="#Port_bindings" timestamp="1606804374004">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="631" y="293" key="#Port_bindings/0.0.1549.831@0.0.1549.831" timestamp="1606804374004" />
+    <state x="230" y="70" width="1122" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606805469645">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="230" y="70" width="1122" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1606805469645" />
+    <state x="488" y="0" key="#dockerDemo" timestamp="1606805486535">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="488" y="0" key="#dockerDemo/0.0.1549.831@0.0.1549.831" timestamp="1606805486535" />
+    <state x="488" y="0" key="#target/Dockerfile" timestamp="1606804450550">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="488" y="0" key="#target/Dockerfile/0.0.1549.831@0.0.1549.831" timestamp="1606804450550" />
+    <state x="572" y="156" key="FileChooserDialogImpl" timestamp="1606804098333">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="572" y="156" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1606804098333" />
+    <state width="1506" height="310" key="GridCell.Tab.0.bottom" timestamp="1606805646592">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="310" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1606805646592" />
+    <state width="1506" height="310" key="GridCell.Tab.0.center" timestamp="1606805646591">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="310" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1606805646591" />
+    <state width="1506" height="310" key="GridCell.Tab.0.left" timestamp="1606805646591">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="310" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1606805646591" />
+    <state width="1506" height="310" key="GridCell.Tab.0.right" timestamp="1606805646591">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="310" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1606805646591" />
+    <state x="691" y="311" width="569" height="207" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1606804533555">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="691" y="311" width="569" height="207" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize/0.0.1549.831@0.0.1549.831" timestamp="1606804533555" />
+  </component>
+</project>
